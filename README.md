@@ -14,5 +14,5 @@ I am Khalil Barbouchi, a third-year software engineering student and a data scie
 * 💬 Ask me about Pytorch
 * 📫 How to reach me: contact me directly on this mail sirbarbouchi@gmail.com
 * 😄 Pronouns: SirB
-* ⚡ Fun fact: I can't live without Python
+* ⚡ Fun fact: Socrate est un homme
 
