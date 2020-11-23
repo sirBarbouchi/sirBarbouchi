@@ -4,7 +4,7 @@
 **sirBarbouchi/sirBarbouchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-####I am a third-year software engineering student and a data science enthusiast, I am more interested in the field of computer vision. I am currently looking for ####an internship, if you can help me find an opportunity, please contact me by this e-mail: sirbarbouchi@gmail.com
+I am a third-year software engineering student and a data science enthusiast, I am more interested in the field of computer vision. I am currently looking for an internship, if you can help me find an opportunity, please contact me by this e-mail: sirbarbouchi@gmail.com
 
 
 * 🔭 I’m currently working on deep learning project
